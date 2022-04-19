@@ -5,7 +5,7 @@ This is a Mini-Project for the course SC1015 (Introduction to Data Science and A
 1. [Data Cleaning](https://github.com/BoonHianLim/SC1015-Group9/blob/main/Data-cleaning.ipynb)
 2. [Data Exploration](https://github.com/BoonHianLim/SC1015-Group9/blob/main/Data-exploratary.ipynb)
 3. [Data Oversampling](https://github.com/BoonHianLim/SC1015-Group9/blob/main/Data-oversampling.ipynb)
-4. [Data visualisation](https://github.com/BoonHianLim/SC1015-Group9/blob/main/Data-visualization.ipynb)
+4. [Data Visualisation](https://github.com/BoonHianLim/SC1015-Group9/blob/main/Data-visualization.ipynb)
 5. [Data Splitting](https://github.com/BoonHianLim/SC1015-Group9/blob/main/Data-encoding-and-splitting.ipynb)
 6. [Linear Regression](https://github.com/BoonHianLim/SC1015-Group9/blob/main/Data-Linear-Regression.ipynb)
 7. [Poisson Regression](https://github.com/BoonHianLim/SC1015-Group9/blob/main/Machine-learning.ipynb)
