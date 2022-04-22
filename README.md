@@ -6,8 +6,8 @@ This is a Mini-Project for the course SC1015 (Introduction to Data Science and A
 2. [Data Cleaning](https://github.com/BoonHianLim/SC1015-Group9/blob/main/Data-cleaning.ipynb)
 3. [Data Visualisation](https://github.com/BoonHianLim/SC1015-Group9/blob/main/Data-visualization.ipynb)
 4. [Data Splitting](https://github.com/BoonHianLim/SC1015-Group9/blob/main/Data-encoding-and-splitting.ipynb)
-5. [Linear Regression](https://github.com/BoonHianLim/SC1015-Group9/blob/main/Data-Linear-Regression.ipynb)
-6. [Poisson Regression](https://github.com/BoonHianLim/SC1015-Group9/blob/main/Machine-learning.ipynb)
+5. [Linear Regression](https://github.com/BoonHianLim/SC1015-Group9/blob/main/Linear_Regression.ipynb)
+6. [Poisson Regression](https://github.com/BoonHianLim/SC1015-Group9/blob/main/Poisson_Regression.ipynb)
 
 ### Contributors:
 - Lim Boon Hian - Data Resampling, Data Visualisation, Data Extraction
