@@ -12,7 +12,7 @@ This is a Mini-Project for the course SC1015 (Introduction to Data Science and A
 ### Contributors:
 - Lim Boon Hian - Data Resampling, Data Visualisation, Data Extraction
 - Lim Dong Wan - Data Splitting, Linear Regression
-- Marvell Ung Wew - Poisson Regression
+- Marvell Ung Wew - Poisson Regression, Grid Search Cross Validation
 
 ### Problem Definition
 Predicting customer expenditure using customer information
@@ -30,9 +30,10 @@ Predicting customer expenditure using customer information
 2. Poisson Regression
 3. Oversampling
 4. Plotly subplot
-5. Altair interactive plot
-6. Dummy variable for linear regression
-7. Collaborating on Github :)
+5. Grid Search Cross Validation
+6. Altair interactive plot
+7. Dummy variable for linear regression
+8. Collaborating on Github :)
 
 ### References
 - <https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis>
