@@ -50,4 +50,3 @@ Predicting customer sales using customer information
 - <https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.KFold.html/> 
 - <https://medium.com/analytics-vidhya/implementing-linear-regression-using-sklearn-76264a3c073c/> 
 - <https://machinelearningmastery.com/rfe-feature-selection-in-python//> 
-- <https://www.kaggle.com/code/jnikhilsai/cross-validation-with-linear-regression/notebook/> 
