@@ -36,10 +36,11 @@ Predicting customer expenditure using customer information
 
 ### References
 - <https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis>
+- <https://stackoverflow.com/questions/21912634/how-can-i-sort-a-boxplot-in-pandas-by-the-median-values?
+- <https://altair-viz.github.io/gallery/index.html>
 - <https://www.kaggle.com/code/jnikhilsai/cross-validation-with-linear-regression/notebook>
 - <https://towardsdatascience.com/gridsearchcv-for-beginners-db48a90114ee>
 - <https://machinelearningmastery.com/rfe-feature-selection-in-python/>
 - <https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html>
 - <https://medium.com/lcc-unison/how-to-poisson-regression-model-python-implementation-1c672582eb96>
 - <https://timeseriesreasoning.com/contents/poisson-regression-model/>
-- <https://altair-viz.github.io/gallery/index.html>
