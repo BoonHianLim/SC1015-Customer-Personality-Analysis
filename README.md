@@ -36,6 +36,15 @@ __Predictor variables:__
 1. Linear Regression
 2. Poisson Regression
 
+### Insights and Recommendation
+1. Utilise customer-focused sales tactics with customer’s income as a guideline
+2. Target audience should be customers who have / are:
+- fewer children
+- higher income
+- higher levels of education
+- born in 1940 - 1950
+3. Improve online sales by upgrading company website
+
 ### Conclusion
 1. __Customer income__ serves as the most important predictor to predict customer expenditure
 2. Linear Regression yield better results than Poisson Regression
