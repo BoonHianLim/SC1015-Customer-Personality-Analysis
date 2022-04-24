@@ -19,13 +19,27 @@ The source code, in order, are as follows:
 ### Problem Definition
 Predicting customer sales using customer information
 
+### Variables in Focus
+__Response variables:__ TotalPurchase, MntGroceryProducts, MntWines, MntGoldProds
+__Predictor variables:__
+- _Categorical:_
+    - Education
+    - Marital_Status
+    - HaveChild
+    - YearRange
+- _Numerical:_
+    - Income
+    - TotalChild
+    - NumWebVisitsMonth
+
 ### Machine Learning Models Used
 1. Linear Regression
 2. Poisson Regression
 
 ### Conclusion
 1. __Customer income__ serves as the most important predictor to predict customer expenditure
-2. Linear Regression did not yield good results as the data is not strongly linearly correlated
+2. Linear Regression yield better results than Poisson Regression
+3. GridSearch CV only marginally improved the Linear Regression model
 
 ### Things Learnt
 1. K-fold splitting
@@ -33,11 +47,12 @@ Predicting customer sales using customer information
 3. Plotly subplot
 4. Grid Search Cross Validation
 5. Altair interactive plot
-6. Dummy variable for linear regression
+6. Get dummy values for categorical variables in Linear Regression
 7. Collaborating on Github :)
 
 ### References
 - <https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis/> 
+- <https://ntulearn.ntu.edu.sg/webapps/blackboard/content/listContent.jsp?course_id=_2606895_1&content_id=_2762960_1/>
 - <https://stackoverflow.com/questions/21912634/how-can-i-sort-a-boxplot-in-pandas-by-the-median-values>
 - <https://altair-viz.github.io/gallery/index.html>
 - <https://www.kaggle.com/code/jnikhilsai/cross-validation-with-linear-regression/notebook>
