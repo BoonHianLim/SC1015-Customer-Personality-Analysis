@@ -51,7 +51,7 @@ Recommendations:
 ### Conclusion
 1. __Customer income__ serves as the most important predictor to predict customer expenditure
 2. *Linear Regression* yield __better__ results than *Poisson Regression*
-3. GridSearch CV only marginally improved the Linear Regression model
+3. GridSearch CV only __marginally__ improved the Linear Regression model
 
 ### Things Learnt
 1. K-fold splitting
