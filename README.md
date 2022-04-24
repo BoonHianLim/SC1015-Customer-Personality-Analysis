@@ -34,7 +34,7 @@ Predicting customer expenditure using customer information
 6. Dummy variable for linear regression
 7. Collaborating on Github :)
 
-### References
+### References (use APA citation generator, plus some minor edits)
 - <https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis>
 - <https://stackoverflow.com/questions/21912634/how-can-i-sort-a-boxplot-in-pandas-by-the-median-values>
 - <https://altair-viz.github.io/gallery/index.html>
