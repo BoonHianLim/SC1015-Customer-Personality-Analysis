@@ -35,7 +35,7 @@ Predicting customer expenditure using customer information
 7. Collaborating on Github :)
 
 ### References (use APA citation generator, plus some minor edits)
-- <https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis>
+- Patel, A. (2021, August 22). _Customer Personality Analysis_. Kaggle. Retrieved April 24, 2022, from https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis 
 - <https://stackoverflow.com/questions/21912634/how-can-i-sort-a-boxplot-in-pandas-by-the-median-values>
 - <https://altair-viz.github.io/gallery/index.html>
 - <https://www.kaggle.com/code/jnikhilsai/cross-validation-with-linear-regression/notebook>
