@@ -51,7 +51,7 @@ __Predictor variables:__
 7. Collaborating on Github :)
 
 ### References
-- <https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis/> 
+- <https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis/> (Original Dataset)
 - <https://ntulearn.ntu.edu.sg/webapps/blackboard/content/listContent.jsp?course_id=_2606895_1&content_id=_2762960_1/>
 - <https://stackoverflow.com/questions/21912634/how-can-i-sort-a-boxplot-in-pandas-by-the-median-values>
 - <https://altair-viz.github.io/gallery/index.html>
