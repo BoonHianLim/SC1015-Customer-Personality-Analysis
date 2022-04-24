@@ -44,3 +44,8 @@ Predicting customer expenditure using customer information
 - <https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html>
 - <https://medium.com/lcc-unison/how-to-poisson-regression-model-python-implementation-1c672582eb96>
 - <https://timeseriesreasoning.com/contents/poisson-regression-model/>
+- Matplotlib. (n.d.). _Creating multiple subplots using plt.subplots_. Matplotlib 3.5.1 documentation. Retrieved April 24, 2022, from <https://matplotlib.org/stable/gallery/subplots_axes_and_figures/subplots_demo.html/> 
+- scikit learn. (n.d.). _Sklearn.model_selection.Kfold_. scikit learn 1.0.2 documentation. Retrieved April 24, 2022, from <https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.KFold.html/> 
+- Pathak, P. (2020, July 16). _Implementing Linear Regression using Sklearn_. Medium. Retrieved April 24, 2022, from <https://medium.com/analytics-vidhya/implementing-linear-regression-using-sklearn-76264a3c073c/> 
+- Brownlee, J. (2020, August 27). _Recursive Feature Elimination (RFE) for Feature Selection in Python_. Machine Learning Mastery. Retrieved April 24, 2022, from <https://machinelearningmastery.com/rfe-feature-selection-in-python//> 
+- Jnikhilsai. (2019, August 20). _Cross-Validation with Linear Regression_. Kaggle. Retrieved April 24, 2022, from <https://www.kaggle.com/code/jnikhilsai/cross-validation-with-linear-regression/notebook/> 
