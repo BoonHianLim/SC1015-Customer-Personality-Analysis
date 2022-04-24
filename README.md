@@ -6,13 +6,13 @@ This is a Mini-Project for the course SC1015 (Introduction to Data Science and A
 The source code, in order, are as follows:
 1. [Data Exploration](https://github.com/BoonHianLim/SC1015-Group9/blob/main/Data-exploratory.ipynb)
 2. [Data Cleaning](https://github.com/BoonHianLim/SC1015-Group9/blob/main/Data-cleaning.ipynb)
-3. [Data Visualisation](https://github.com/BoonHianLim/SC1015-Group9/blob/main/Data-visualization.ipynb)
+3. [Data Visualization](https://github.com/BoonHianLim/SC1015-Group9/blob/main/Data-visualization.ipynb)
 4. [Data Splitting](https://github.com/BoonHianLim/SC1015-Group9/blob/main/Data-encoding-and-splitting.ipynb)
 5. [Linear Regression](https://github.com/BoonHianLim/SC1015-Group9/blob/main/Linear_Regression.ipynb)
 6. [Poisson Regression](https://github.com/BoonHianLim/SC1015-Group9/blob/main/Poisson_Regression.ipynb)
 
 ### Contributors:
-- __Lim Boon Hian__ - Data Resampling, Data Visualisation, Data Extraction
+- __Lim Boon Hian__ - Data Exploration, Data Cleaning, Data Visualization
 - __Lim Dong Wan__ - Linear Regression, Data Splitting
 - __Marvell Ung Wew__ - Poisson Regression, Grid Search Cross Validation
 
