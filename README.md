@@ -28,12 +28,11 @@ Predicting customer expenditure using customer information
 ### Things Learnt
 1. K-fold splitting
 2. Poisson Regression
-3. Oversampling
-4. Plotly subplot
-5. Grid Search Cross Validation
-6. Altair interactive plot
-7. Dummy variable for linear regression
-8. Collaborating on Github :)
+3. Plotly subplot
+4. Grid Search Cross Validation
+5. Altair interactive plot
+6. Dummy variable for linear regression
+7. Collaborating on Github :)
 
 ### References
 - <https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis>
