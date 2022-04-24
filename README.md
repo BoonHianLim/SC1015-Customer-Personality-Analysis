@@ -43,3 +43,4 @@ Predicting customer expenditure using customer information
 - <https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html>
 - <https://medium.com/lcc-unison/how-to-poisson-regression-model-python-implementation-1c672582eb96>
 - <https://timeseriesreasoning.com/contents/poisson-regression-model/>
+- <https://altair-viz.github.io/gallery/index.html>
