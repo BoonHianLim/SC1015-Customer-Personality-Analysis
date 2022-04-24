@@ -63,17 +63,17 @@ Recommendations:
 7. Collaborating on Github :)
 
 ### References
-- <https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis/> (Original Dataset)
+- <https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis> (Original Dataset)
 - <https://ntulearn.ntu.edu.sg/webapps/blackboard/content/listContent.jsp?course_id=_2606895_1&content_id=_2762960_1/>
 - <https://stackoverflow.com/questions/21912634/how-can-i-sort-a-boxplot-in-pandas-by-the-median-values>
 - <https://altair-viz.github.io/gallery/index.html>
 - <https://www.kaggle.com/code/jnikhilsai/cross-validation-with-linear-regression/notebook>
 - <https://towardsdatascience.com/gridsearchcv-for-beginners-db48a90114ee>
-- <https://machinelearningmastery.com/rfe-feature-selection-in-python/>
+- <https://machinelearningmastery.com/rfe-feature-selection-in-python>
 - <https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html>
 - <https://medium.com/lcc-unison/how-to-poisson-regression-model-python-implementation-1c672582eb96>
-- <https://timeseriesreasoning.com/contents/poisson-regression-model/>
-- <https://matplotlib.org/stable/gallery/subplots_axes_and_figures/subplots_demo.html/> 
-- <https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.KFold.html/> 
-- <https://medium.com/analytics-vidhya/implementing-linear-regression-using-sklearn-76264a3c073c/> 
-- <https://machinelearningmastery.com/rfe-feature-selection-in-python//> 
+- <https://timeseriesreasoning.com/contents/poisson-regression-model>
+- <https://matplotlib.org/stable/gallery/subplots_axes_and_figures/subplots_demo.html> 
+- <https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.KFold.html> 
+- <https://medium.com/analytics-vidhya/implementing-linear-regression-using-sklearn-76264a3c073c> 
+- <https://machinelearningmastery.com/rfe-feature-selection-in-python/> 
