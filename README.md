@@ -21,6 +21,7 @@ Predicting customer sales using customer information
 
 ### Variables in Focus
 __Response variables:__ TotalPurchase, MntGroceryProducts, MntWines, MntGoldProds
+
 __Predictor variables:__
 - _Categorical:_
     - Education
@@ -37,13 +38,15 @@ __Predictor variables:__
 2. Poisson Regression
 
 ### Insights and Recommendation
-1. Utilise customer-focused sales tactics with customer’s income as a guideline
-2. Target audience should be customers who have / are:
+Main insight: The company utilizes customer-focused sales tactics with customer’s income as a guideline.
+
+Recommendations:
+1. Target audience should be customers who have / are:
     - fewer children
     - higher income
     - higher levels of education
     - born in 1940 - 1950
-3. Improve online sales by upgrading company website
+2. Improve online sales by upgrading company website, so as to make it more attractive and appealing to customers.
 
 ### Conclusion
 1. __Customer income__ serves as the most important predictor to predict customer expenditure
